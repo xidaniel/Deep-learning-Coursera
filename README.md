@@ -4,7 +4,7 @@ This course covers deep learning from begginer level to advanced.
 
 These courses are show below:
 
-Course 1. Neural Networks and deep learning (4 weeks)
+Course 1. Neural Networks and Deep Learning (4 weeks)
 
 Course 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization (3 weeks)
 
