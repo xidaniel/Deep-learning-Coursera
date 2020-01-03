@@ -2,7 +2,7 @@
 
 This course covers deep learning from begginer level to advanced.
 
-The courses are show below:
+These courses are show below:
 
 Course 1. Neural Networks and deep learning (4 weeks)
 
