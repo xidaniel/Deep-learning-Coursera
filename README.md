@@ -1,5 +1,4 @@
 # Deep-learning-Coursera
-Projects from the Deep Learning Specialization by Andrew Ng.
 
 This course covers deep learning from begginer level to advanced.
 
