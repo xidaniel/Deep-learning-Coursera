@@ -2,7 +2,7 @@
 
 This course covers deep learning from begginer level to advanced.
 
-## Courses schedules and learning objectives are shown below:
+Courses schedules and learning objectives are shown below:
 
 
 Course 1. Neural Networks and Deep Learning (4 weeks)
@@ -55,6 +55,8 @@ Learning Objectives
 
 - Master the process of hyperparameter tuning
 
+--------------------------------------------------------------------------------------------------------------------
+
 Course 3. Structuring Machine Learning Projects (2 weeks)
 ---------------------------------------------------------
 Learning Objectives
@@ -68,6 +70,8 @@ Learning Objectives
 
 - Understand what **multi-task learning** and **transfer learning** are
 - Recognize bias, variance and data-mismatch by looking at the performances of your algorithm on train/dev/test sets
+
+--------------------------------------------------------------------------------------------------------------------
 
 Course 4. Convolutional Neural Networks (4 weeks)
 -----------------------------------------------
