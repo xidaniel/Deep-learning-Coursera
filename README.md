@@ -1,4 +1,4 @@
-# Deep-learning-Coursera
+# Deep-learning-Coursera (No programming answer here)
 
 This course covers deep learning from begginer level to advanced.
 
